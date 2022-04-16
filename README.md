@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayneElliott404
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning html, CSS, and JaveScript
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me by email at musicqueen15@yahoo.com
 
