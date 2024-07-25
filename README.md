@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayneElliott404
-- 👀 I’m interested in software development
+- 👀 I'm a Robotics Process Automation developer
 - 🌱 My skills include HTML, CSS, and JavaScript and I am currently learning Robotic Process Automation
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me by email at musicqueen15@yahoo.com
